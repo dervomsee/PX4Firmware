@@ -1,0 +1,3 @@
+[submodule "PX4NuttX"]
+	path = PX4NuttX
+	url = https://github.com/diydrones/PX4NuttX.git
